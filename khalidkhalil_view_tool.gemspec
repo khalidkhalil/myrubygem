@@ -7,11 +7,11 @@ Gem::Specification.new do |spec|
   spec.name          = "khalidkhalil_view_tool"
   spec.version       = KhalidkhalilViewTool::VERSION
   spec.authors       = ["khalidkhalil1993"]
-  spec.email         = ["kfk@webshipper.com"]
+  spec.email         = ["khalidkhalil1993@outlook.com"]
 
   spec.summary       = %q{Enter Your Copyright Easily}
   spec.description   = %q{Hope You Enjoy it}
-  spec.homepage      = "facebook.com/khalidkhalil1993"
+  spec.homepage      = "https://github.com/khalidkhalil/myrubygem"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
