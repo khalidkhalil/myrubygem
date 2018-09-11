@@ -23,7 +23,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-    KhalidKhalilViewTool::Renderer.copyright "Khalid Khalil" , "All Right Reserved"
+    KhalidkhalilViewTool::Renderer.copyright "Khalid Khalil" , "All Right Reserved"
 ```
 
 ## Development
