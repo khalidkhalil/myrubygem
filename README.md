@@ -22,6 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
+ @copyright = KhalidKhalilViewTool::Renderer.copyright "Khalid Khalil" , "All Right Reserved"
 
 ## Development
 
